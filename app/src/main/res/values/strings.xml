@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Lucas Padilha da mata</string>
+    <string name="informe_o_thumbnailurl_do_album">Informe o thumbnailUrl do album</string>
+    <string name="informe_url_do_album">Informe url do album</string>
+    <string name="informe_t_tulo_do_album">Informe título do album</string>
+    <string name="informe_o_id_do_album">Informe o ID do album</string>
+</resources>
